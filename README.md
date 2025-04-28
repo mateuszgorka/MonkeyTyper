@@ -15,7 +15,9 @@ Game developed using C++ and SFML graphics library
 ## The gameplay itself covers various features
 - Typing Gameplay: Earn points by quickly typing words that appear on the screen
 - Multiple Game Modes: Includes Main Menu, Options, Gameplay, Pause, Game Over, and File Name Input screens
-- Customisation Settings: Adjust the font style, word speed, dictionary selection, and word length.
+- Customisation Settings: Adjust the font style, word speed, dictionary selection, and word length
+- High Score Tracking: Save and display the highest scores achieved
+  
 
 ![Typing Gameplay](https://raw.githubusercontent.com/mateuszgorka/MonkeyTyper/main/presentationGifs/2025-04-2822-21-22-ezgif.com-video-to-gif-converter.gif)
 
