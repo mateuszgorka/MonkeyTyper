@@ -1,0 +1,37 @@
+# ninja log v5
+2	50	7387849649963966	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	22528e62ce366d70
+2	50	7387849649963966	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	22528e62ce366d70
+51	38699	7387850036452180	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	f1fd2f6e36a8434c
+206	250	7401726293460068	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cbf9155989a84c97
+51	38699	7387850036452180	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	f1fd2f6e36a8434c
+7	206	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bec9911ff8de7e02
+250	295	7401726293906506	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	4702ec79a2f4cea9
+206	250	7401726293460068	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cbf9155989a84c97
+7	206	0	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bec9911ff8de7e02
+339	383	7401726294784264	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	92bdd1eb99080ec5
+250	295	7401726293906506	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	4702ec79a2f4cea9
+427	487	7401726295821511	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	918928a5c04e572
+295	339	7401726294345555	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	37792ee5682e9365
+295	339	7401726294345555	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	37792ee5682e9365
+339	383	7401726294784264	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	92bdd1eb99080ec5
+383	426	7401726295222979	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	c04f5ba6616241ac
+383	426	7401726295222979	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	c04f5ba6616241ac
+427	487	7401726295821511	CMakeFiles/sfml-populate-complete	918928a5c04e572
+427	487	7401726295821511	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	918928a5c04e572
+427	487	7401726295821511	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	918928a5c04e572
+9	154	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bec9911ff8de7e02
+9	154	0	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	bec9911ff8de7e02
+154	211	7401726346325462	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cbf9155989a84c97
+154	211	7401726346325462	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cbf9155989a84c97
+211	261	7401726346824862	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	4702ec79a2f4cea9
+211	261	7401726346824862	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	4702ec79a2f4cea9
+261	308	7401726347294871	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	37792ee5682e9365
+261	308	7401726347294871	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	37792ee5682e9365
+308	355	7401726347764330	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	92bdd1eb99080ec5
+308	355	7401726347764330	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	92bdd1eb99080ec5
+355	397	7401726348187974	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	c04f5ba6616241ac
+355	397	7401726348187974	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	c04f5ba6616241ac
+397	461	7401726348821690	CMakeFiles/sfml-populate-complete	918928a5c04e572
+397	461	7401726348821690	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	918928a5c04e572
+397	461	7401726348821690	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	918928a5c04e572
+397	461	7401726348821690	D:/PROJEKT C/C-GAME/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	918928a5c04e572
